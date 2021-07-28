@@ -1,7 +1,7 @@
 # Adversarial-Learning Course - All HW Tasks
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RedCrow9564/Adversarial_Learning_Course-All_HWs/blob/main/Ex5_Code.ipynb) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/main/LICENSEs)![GitHub last commit](https://img.shields.io/github/last-commit/RedCrow9564/Adversarial_Learning_Course-All_HWs)
 
-Here are all HW submissions of mine & Zvika Deutsch, made during the "Adversarial Learning Course" Of Y-DATA, Yandex between May 2021 to July 2021.
+Here are all HW submissions of mine & [Zvika Deutsch](https://github.com/Zvika-Deutsch) made during the "Adversarial Learning Course" Of Y-DATA, Yandex between May 2021 to July 2021.
 
 HW descriptions:
 
