@@ -5,7 +5,7 @@ Here are all HW submissions of mine & Zvika Deutsch, made during the "Adversaria
 
 HW descriptions:
 
-* [Ex1-Basic Adversarial Attacks](Ex1 Code-Elad Eatah.ipynb) - A task made for veryfing the student's skills in Python, Pandas, Pytorch and Pytorch-Lightning.
+* [Ex1-Basic Adversarial Attacks](Ex1_Code-Elad_Eatah.ipynb) - A task made for veryfing the student's skills in Python, Pandas, Pytorch and Pytorch-Lightning.
 * [Ex2-Adversarial Re-training](Ex2_Code.ipynb) - A review of the paper [[1]](#1).
 * [Ex3-Understanding Convolutional Networks](Ex3_Code.ipynb) - A Pytorch-lightning implementation of the paper [[1]](#1).
 * [Ex4-Defensive Distillation](Ex4_Code.ipynb) - A review of the paper [[2]](#2).
