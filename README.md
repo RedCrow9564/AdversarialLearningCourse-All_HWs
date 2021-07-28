@@ -5,12 +5,12 @@ Here are all HW submissions of mine & Zvika Deutsch, made during the "Adversaria
 
 HW descriptions:
 
-* [Ex1-Basic Adversarial Attacks](Ex1_Code-Elad_Eatah.ipynb) - A task made for veryfing the student's skills in Python, Pandas, Pytorch and Pytorch-Lightning.
-* [Ex2-Adversarial Re-training](Ex2_Code.ipynb) - A review of the paper [[1]](#1).
-* [Ex3-Understanding Convolutional Networks](Ex3_Code.ipynb) - A Pytorch-lightning implementation of the paper [[1]](#1).
-* [Ex4-Defensive Distillation](Ex4_Code.ipynb) - A review of the paper [[2]](#2).
-* [Ex5-Robust Manifold Defense](Ex5_Code.ipynb) - A Python implementation of the paper [[2]](#2).
-* [Ex6-Hop, Skip & Jump Attack](Ex6_Part_1.ipynb) - A Python implementation of the paper [[2]](#2).
+* [Ex1-Intro to Adversarial-Learning](Ex1_Code-Elad_Eatah.ipynb) - A task which introduces the basic terms in adversarial attacks. Results are available in [here](Ex._1_Report_-_Elad_Eatah.docx).
+* [Ex2-Adversarial Re-training](Ex2_Code.ipynb) - A task which focuses on the basic "Fast-Gradient descent method" (FGSM) scheme and the defense machanism of re-training. Results are available in [here](Ex_2_Report_-_Zvika_Deutsch,_Elad_Eatah.docx).
+* [Ex3-Understanding Convolutional Networks](Ex3_Code.ipynb) - A task which analyzes the performance of a specific CNN.
+* [Ex4-Defensive Distillation](Ex4_Code.ipynb) - A basic implementation of the defensive distillation scheme of [[1]](#1).
+* [Ex5-Robust Manifold Defense](Ex5_Code.ipynb) - A basic implementation of the manifold defense-scheme of [[2]](#2).
+* [Ex6-Hop, Skip & Jump Attack](Ex6_Part_1.ipynb) - A basic implementation of the "Hop, Skip & Jump" of [[3]](#3). Results are available in [here](Ex_6_Part_2.docx).
 
 ## References
 <a id="1">[1]</a> [Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami, 
